@@ -28,7 +28,7 @@
     "axios": "^0.18",
     "browser-sync": "^2.18.13",
     "browser-sync-webpack-plugin": "^2.2.2",
-    "codemirror": "^5.30.0",
+    "codemirror": "^5.58.2",
     "compression-webpack-plugin": "^1.0.1",
     "cross-env": "^5.1",
     "laravel-mix": "^4.0.7",
